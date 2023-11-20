@@ -6,7 +6,7 @@ public class Student {
 		// TODO Auto-generated method stub
 		
 		int age=34;
-		int Rollno=761;
+		int Rollno=7671;
 		
 		System.out.println("age:"+age);
 		System.out.println("Rollno:"+Rollno);
